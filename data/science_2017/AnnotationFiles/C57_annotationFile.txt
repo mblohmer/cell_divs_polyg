@@ -1,0 +1,8 @@
+Sample_ID	Real_Sample_ID
+C57-A	M1
+C57-B	P1
+C57-C	N1
+C57-E	P2
+C57-F	P3
+C57-G	P4
+C57-H	N2

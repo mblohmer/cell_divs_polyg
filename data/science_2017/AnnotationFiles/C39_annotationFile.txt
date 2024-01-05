@@ -1,0 +1,8 @@
+Sample_ID	Real_Sample_ID
+C39-1-A	ST1
+C39-1-B-T1	CT1
+C39-1-C-J	L1
+C39-1-H-Sec	ST2
+C39-1-I-T1	CT2
+C39-2-E	N1
+C39-2-I-J	M1

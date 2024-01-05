@@ -1,0 +1,10 @@
+Sample_ID	Real_Sample_ID
+C51-A	P2
+C51-B	N1
+C51-C--firstR-	M1a
+C51-C--macro-	M1b
+C51-D	L1
+C51-E	L2
+C51-F	N2
+C51-G	P1
+C51-H	P3

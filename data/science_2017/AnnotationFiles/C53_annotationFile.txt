@@ -1,0 +1,11 @@
+Sample_ID	Real_Sample_ID	Info
+C53-A	P1	
+C53-B	M1a	r.l.
+C53-C	N1	
+C53-E	L1	
+C53-F	P2	
+C53-G	P3	
+C53-H	P4	
+C53-I	M1b	r.l.
+C53-I_Nod	M2	r.l.
+C53-J	M3	l.l.

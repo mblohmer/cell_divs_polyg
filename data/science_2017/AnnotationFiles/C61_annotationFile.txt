@@ -1,0 +1,10 @@
+Sample_ID	Real_Sample_ID
+C61-A	P1
+C61-B	M1a
+C61-C	N1
+C61-C2	N2
+C61-Bmacro	M1b
+C61-D	L1
+C61-E	P2
+C61-F	P3
+C61-G	P4

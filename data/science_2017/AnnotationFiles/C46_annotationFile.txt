@@ -1,0 +1,10 @@
+Sample_ID	Real_Sample_ID
+C46-A	P4
+C46-B	N2
+C46-C	P1
+C46-D	P2
+C46-E-T1	P3
+C46-G	P5
+C46-H	M1
+C46-I	L1
+C46-J	N1
