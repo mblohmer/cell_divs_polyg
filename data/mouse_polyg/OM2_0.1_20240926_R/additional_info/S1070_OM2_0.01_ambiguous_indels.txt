@@ -1,0 +1,1 @@
+S1070_OM2_0.01 in normal sample OM2_B_B mean 2.42250986156315 mean3 2.09297940237888 peak 2 peak2 3 median 2

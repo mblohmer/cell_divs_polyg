@@ -1,0 +1,2 @@
+S438_OM5_0.01 in normal sample OM5_B_B mean 2.49902353787645 mean3 2.0936529072348 peak 2 peak2 3 median 2
+S438_OM5_0.01 in sample OM5_C_5F possible deletion: mean 2.47319948627318 mean3 2.09392643753769 peak 2 peak2 3 median 2

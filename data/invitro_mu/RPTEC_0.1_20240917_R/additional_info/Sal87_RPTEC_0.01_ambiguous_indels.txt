@@ -1,0 +1,2 @@
+Sal87_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.58553119372948 mean3 2.72785686802616 peak 3 peak2 2 median 3
+Sal87_RPTEC_0.01 in sample RPTEC_R1 possible insertion: mean 2.58558832471876 mean3 2.72698457753808 peak 3 peak2 2 median 3

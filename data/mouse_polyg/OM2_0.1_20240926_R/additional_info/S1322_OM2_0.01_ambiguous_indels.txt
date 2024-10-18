@@ -1,0 +1,1 @@
+S1322_OM2_0.01 in normal sample OM2_B_B mean 1.52212389380531 mean3 1.52212389380531 peak 2 peak2 1 median 2

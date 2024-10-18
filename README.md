@@ -1,6 +1,6 @@
 # Quantifying cell divisions along evolutionary lineages in cancer
 
-This is the Github repository  for the paper *doi.xxx*. It contains **A)** all data analyzed in this paper and **B)** the steps to recreate all analyses presented.
+This is the Github repository  for the paper *[Quantifying cell divisions along evolutionary lineages in cancer](https://doi.org/10.21203/rs.3.rs-3839927/v1)*. It contains **A)** all data analyzed in this paper and **B)** the steps to recreate all analyses presented.
 
 ![Quantifying cell divisions along evolutionary lineages in cancer](/data/title_plot.png "Title plot")
 
@@ -25,7 +25,7 @@ analysis.packages <- c( "data.table","tidyverse","ggtree",
                         "readxl", "lubridate", "ape", 
                         "rstatix", "treeio", "survival",
                         "survminer", "contsurvplot", "pammtools",
-                        "devtools", "parallel")
+                        "devtools", "parallel", "Quartet")
 
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
@@ -42,7 +42,7 @@ plot.packages <- c( "ggpubr", "patchwork", "pheatmap",
                     "ggbeeswarm", "ggbreak", "ggdist", 
                     "grid", "scales", "gridExtra",
 		            "zoo", "ggfortify", "dendextend"
-                    "ggtext")
+                    "ggtext", "MetBrewer")
 
 new.plot.packages <- plot.packages[!(plot.packages %in% installed.packages()[,"Package"])]
 if(length(new.plot.packages)>0) BiocManager::install(new.plot.packages)

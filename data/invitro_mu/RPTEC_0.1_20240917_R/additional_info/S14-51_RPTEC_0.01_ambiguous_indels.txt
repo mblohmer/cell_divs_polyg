@@ -1,0 +1,2 @@
+S14-51_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.8507229189271 mean3 3.08517412935323 peak 3 peak2 4 median 3
+S14-51_RPTEC_0.01 in sample RPTEC_R1 possible deletion: mean 2.84769539078156 mean3 3.08684967827465 peak 3 peak2 4 median 3

@@ -1,0 +1,5 @@
+Nax49_HMEC_0.01 in normal sample HMEC_Root1 mean 2.63501383895083 mean3 2.82024478041757 peak 3 peak2 2 median 3
+Nax49_HMEC_0.01 in sample HMEC_4_G2_4A possible insertion: mean 2.63648236830649 mean3 2.81410163602143 peak 3 peak2 2 median 3
+Nax49_HMEC_0.01 in sample HMEC_5_4 possible insertion: mean 2.6376135891192 mean3 2.81631039820823 peak 3 peak2 2 median 3
+Nax49_HMEC_0.01 in sample HMEC_5_7 possible insertion: mean 2.63682979489025 mean3 2.81659345047923 peak 3 peak2 2 median 3
+Nax49_HMEC_0.01 in sample HMEC_STAT_2 possible insertion: mean 2.63543033324587 mean3 2.81636370259736 peak 3 peak2 2 median 3

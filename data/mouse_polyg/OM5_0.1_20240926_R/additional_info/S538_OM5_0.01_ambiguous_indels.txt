@@ -1,0 +1,2 @@
+S538_OM5_0.01 in normal sample OM5_B_B mean 2.47038100523611 mean3 2.82315102920057 peak 3 peak2 2 median 2
+S538_OM5_0.01 in sample OM5_C_5A possible deletion: mean 2.47014429466489 mean3 2.83033920340385 peak 3 peak2 2 median 2

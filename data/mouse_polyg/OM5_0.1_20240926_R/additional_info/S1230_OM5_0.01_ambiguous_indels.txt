@@ -1,0 +1,2 @@
+S1230_OM5_0.01 in normal sample OM5_B_B mean 3.63754019923131 mean3 3.94973855030653 peak 4 peak2 3 median 4
+S1230_OM5_0.01 in sample OM5_C_6D possible deletion: mean 3.63107547691457 mean3 3.9502503462235 peak 4 peak2 3 median 4

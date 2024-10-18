@@ -1,0 +1,2 @@
+S574_OM4_0.01 in normal sample OM4_B_B mean 2.73151826687639 mean3 3.05190238278248 peak 3 peak2 4 median 3
+S574_OM4_0.01 in sample OM4_C_2G possible deletion: mean 2.72996570003118 mean3 3.05399555732756 peak 3 peak2 4 median 3

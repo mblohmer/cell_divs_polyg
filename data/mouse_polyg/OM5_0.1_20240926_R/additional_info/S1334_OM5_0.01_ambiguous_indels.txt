@@ -1,0 +1,13 @@
+S1334_OM5_0.01 in normal sample OM5_B_B mean 2.53422763103305 mean3 2.87406562777144 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_4D possible deletion: mean 2.50331290592919 mean3 2.87663462795868 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_4H possible deletion: mean 2.5113474518546 mean3 2.88400007719176 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_5A possible deletion: mean 2.50990723411181 mean3 2.89312723980054 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_5F possible deletion: mean 2.53313912009512 mean3 2.90349439744896 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_5H possible deletion: mean 2.50480314849558 mean3 2.88189323642522 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_6B possible deletion: mean 2.5340173595498 mean3 2.90175343761614 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_C_6D possible deletion: mean 2.52417936694021 mean3 2.89318749689739 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_H_2H possible deletion: mean 2.51460772052107 mean3 2.88500821994473 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_H_6B possible deletion: mean 2.5141808425956 mean3 2.88884189621566 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_H_6C possible deletion: mean 2.52025832359375 mean3 2.89685536942866 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_H_6F possible deletion: mean 2.52486366447405 mean3 2.89295622284647 peak 3 peak2 2 median 3
+S1334_OM5_0.01 in sample OM5_H_6H possible deletion: mean 2.5044124201456 mean3 2.88548765501061 peak 3 peak2 2 median 3

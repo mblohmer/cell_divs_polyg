@@ -1,0 +1,1 @@
+S1377_OM4_0.01 in normal sample OM4_B_B mean 1.54394861392833 mean3 1.54394861392833 peak 2 peak2 1 median 2

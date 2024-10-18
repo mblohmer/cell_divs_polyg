@@ -1,0 +1,5 @@
+S1163_OM3_0.01 in normal sample OM3_B_B mean 2.69774869759365 mean3 2.92968419568589 peak 3 peak2 2 median 3
+S1163_OM3_0.01 in sample OM3_C_8A possible deletion: mean 2.68956397164163 mean3 2.93908094435076 peak 3 peak2 2 median 3
+S1163_OM3_0.01 in sample OM3_C_9A possible deletion: mean 2.6835307225684 mean3 2.938468117457 peak 3 peak2 2 median 3
+S1163_OM3_0.01 in sample OM3_C_9D possible deletion: mean 2.673322571589 mean3 2.93424468602953 peak 3 peak2 2 median 3
+S1163_OM3_0.01 in sample OM3_C_9F possible deletion: mean 2.67117830984709 mean3 2.93019689324231 peak 3 peak2 2 median 3

@@ -1,0 +1,6 @@
+JF27_A549_0.01 in normal sample A549Root1 mean 2.52377553531873 mean3 2.73129194630872 peak 3 peak2 2 median 3
+JF27_A549_0.01 in sample A549_G2_2G possible deletion: mean 2.52032145782146 mean3 2.74891800382747 peak 3 peak2 2 median 3
+JF27_A549_0.01 in sample A549_G2_2H possible deletion: mean 2.50294420727219 mean3 2.73867506811989 peak 3 peak2 2 median 3
+JF27_A549_0.01 in sample A549_G2_3A possible deletion: mean 2.49713992768874 mean3 2.73929534198483 peak 3 peak2 2 median 3
+JF27_A549_0.01 in sample A549_G2_3F possible deletion: mean 2.51601482546883 mean3 2.73911663916741 peak 3 peak2 2 median 3
+JF27_A549_0.01 in sample A549_G2_3G possible deletion: mean 2.51721698113208 mean3 2.74750424448217 peak 3 peak2 2 median 3

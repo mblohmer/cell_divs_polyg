@@ -1,0 +1,1 @@
+S1-17_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.20914258645192 mean3 2.20914258645192 peak 2 peak2 3 median 2

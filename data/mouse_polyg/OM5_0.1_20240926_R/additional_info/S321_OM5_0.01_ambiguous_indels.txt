@@ -1,0 +1,1 @@
+S321_OM5_0.01 in normal sample OM5_B_B mean 2.45642398286938 mean3 2.88276816608997 peak 3 peak2 2 median 2

@@ -1,0 +1,3 @@
+JF01_A549_0.01 in normal sample A549Root1 mean 2.43211328976035 mean3 2.10166183065154 peak 2 peak2 3 median 2
+JF01_A549_0.01 in sample A549_G2_3D possible insertion: mean 2.4402727925341 mean3 2.09224852486654 peak 2 peak2 3 median 2
+JF01_A549_0.01 in sample A549_G2_4A possible insertion: mean 2.4470207132008 mean3 2.0927249616191 peak 2 peak2 3 median 2

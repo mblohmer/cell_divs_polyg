@@ -1,0 +1,1 @@
+S644_OM2_0.01 in normal sample OM2_B_B mean 1.9125154189202 mean3 1.9125154189202 peak 2 peak2 1 median 2

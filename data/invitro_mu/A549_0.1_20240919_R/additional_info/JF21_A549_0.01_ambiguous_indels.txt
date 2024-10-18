@@ -1,0 +1,4 @@
+JF21_A549_0.01 in normal sample A549Root1 mean 2.16782994923858 mean3 2.50244897959184 peak 3 peak2 2 median 2
+JF21_A549_0.01 in sample A549_G1_1C possible deletion: mean 2.15810502283105 mean3 2.5025919526043 peak 3 peak2 2 median 2
+JF21_A549_0.01 in sample A549_G1_1H possible deletion: mean 2.16480910599953 mean3 2.5030599755202 peak 3 peak2 2 median 2
+JF21_A549_0.01 in sample A549_G2_2H possible deletion: mean 2.16701125660464 mean3 2.50563129816242 peak 3 peak2 2 median 2

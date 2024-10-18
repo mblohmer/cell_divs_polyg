@@ -1,0 +1,1 @@
+Sal66_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.29547469828817 mean3 1.99961196557076 peak 2 peak2 1 median 2

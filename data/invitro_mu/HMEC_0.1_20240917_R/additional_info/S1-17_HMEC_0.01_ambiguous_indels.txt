@@ -1,0 +1,1 @@
+S1-17_HMEC_0.01 in normal sample HMEC_Root1 mean 2.21331957817515 mean3 2.21331957817515 peak 2 peak2 3 median 2

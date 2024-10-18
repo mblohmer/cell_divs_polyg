@@ -1,0 +1,2 @@
+S1292_OM2_0.01 in normal sample OM2_B_B mean 2.33408654389335 mean3 2.55429774911149 peak 3 peak2 2 median 2
+S1292_OM2_0.01 in sample OM2_C_5G possible deletion: mean 2.33056163384391 mean3 2.55489260143198 peak 3 peak2 2 median 2

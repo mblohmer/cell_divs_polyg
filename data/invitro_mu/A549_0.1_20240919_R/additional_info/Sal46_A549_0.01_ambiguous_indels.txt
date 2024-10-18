@@ -1,0 +1,2 @@
+Sal46_A549_0.01 in normal sample A549Root1 mean 2.37840055545036 mean3 2.57368307271024 peak 3 peak2 2 median 3
+Sal46_A549_0.01 in sample A549_G2_2H possible deletion: mean 2.37641327327879 mean3 2.58020261713803 peak 3 peak2 2 median 3

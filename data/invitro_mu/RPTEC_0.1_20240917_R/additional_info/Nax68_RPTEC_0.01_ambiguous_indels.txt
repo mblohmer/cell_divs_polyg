@@ -1,0 +1,2 @@
+Nax68_RPTEC_0.01 in normal sample RPTEC_Root1 mean 3.58878779704245 mean3 3.84577648971513 peak 4 peak2 3 median 4
+Nax68_RPTEC_0.01 in sample RPTEC_R4 possible deletion: mean 3.57692620616711 mean3 3.84696848101465 peak 4 peak2 3 median 4

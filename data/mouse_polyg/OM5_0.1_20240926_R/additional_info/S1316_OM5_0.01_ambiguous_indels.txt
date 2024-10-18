@@ -1,0 +1,1 @@
+S1316_OM5_0.01 in normal sample OM5_B_B mean 1.55346925618503 mean3 1.55346925618503 peak 2 peak2 1 median 2

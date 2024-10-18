@@ -1,0 +1,2 @@
+S14-51_HT29_0.01 in normal sample HT29Root1 mean 3.4933191525776 mean3 3.93830895948899 peak 4 peak2 3 median 4
+S14-51_HT29_0.01 in sample HT29_G1_5B possible insertion: mean 3.49356066149568 mean3 3.93232704785695 peak 4 peak2 3 median 4

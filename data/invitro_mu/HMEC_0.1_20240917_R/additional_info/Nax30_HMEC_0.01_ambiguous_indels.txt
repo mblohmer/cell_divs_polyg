@@ -1,0 +1,1 @@
+Nax30_HMEC_0.01 in normal sample HMEC_Root1 mean 1.979001473031 mean3 1.979001473031 peak 2 peak2 1 median 2

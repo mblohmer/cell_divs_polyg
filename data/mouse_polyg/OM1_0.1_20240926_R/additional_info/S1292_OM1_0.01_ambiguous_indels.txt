@@ -1,0 +1,4 @@
+S1292_OM1_0.01 in normal sample OM1_B_B mean 2.30419090713208 mean3 2.54772102537876 peak 3 peak2 2 median 2
+S1292_OM1_0.01 in sample OM1_C_2F possible insertion: mean 2.30428271937706 mean3 2.53561354019746 peak 3 peak2 2 median 2
+S1292_OM1_0.01 in sample OM1_C_3D possible insertion: mean 2.31550446513395 mean3 2.54525164602165 peak 3 peak2 2 median 2
+S1292_OM1_0.01 in sample OM1_H_1B possible insertion: mean 2.31446620341124 mean3 2.54683318465656 peak 3 peak2 2 median 2

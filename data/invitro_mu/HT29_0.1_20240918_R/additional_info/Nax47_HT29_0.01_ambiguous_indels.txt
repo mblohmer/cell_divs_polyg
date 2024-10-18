@@ -1,0 +1,8 @@
+Nax47_HT29_0.01 in normal sample HT29Root1 mean 3.16814546202711 mean3 3.076195166567 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G1_3E possible deletion: mean 3.16454812460879 mean3 3.07646903647036 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G1_3F possible deletion: mean 3.15437024592841 mean3 3.07625119540963 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G1_5B possible deletion: mean 3.1624345420413 mean3 3.08336738863915 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G2_4H possible deletion: mean 3.15779476708296 mean3 3.076525944321 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G2_5E possible deletion: mean 3.15644124679199 mean3 3.0773758951329 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G2_5H possible deletion: mean 3.16801970263614 mean3 3.08154077038519 peak 3 peak2 4 median 3
+Nax47_HT29_0.01 in sample HT29_G2_6E possible insertion: mean 3.16966866800089 mean3 3.075377165729 peak 3 peak2 4 median 3

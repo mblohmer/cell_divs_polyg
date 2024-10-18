@@ -1,0 +1,4 @@
+Sal22UA_HT29_0.01 in normal sample HT29Root1 mean 2.23204104903079 mean3 2.52767117753989 peak 3 peak2 2 median 2
+Sal22UA_HT29_0.01 in sample HT29_G1_3E possible insertion: mean 2.23632672557917 mean3 2.52654084340902 peak 3 peak2 2 median 2
+Sal22UA_HT29_0.01 in sample HT29_G1_5D possible insertion: mean 2.24067972949541 mean3 2.52705154199125 peak 3 peak2 2 median 2
+Sal22UA_HT29_0.01 in sample HT29_G1_5E possible insertion: mean 2.23693273905997 mean3 2.52370851010731 peak 3 peak2 2 median 2

@@ -1,0 +1,3 @@
+Nax56LA_A549_0.01 in normal sample A549Root1 mean 2.29420922597895 mean3 2.54299318080943 peak 3 peak2 2 median 2
+Nax56LA_A549_0.01 in sample A549_G1_1D possible deletion: mean 2.28197629196354 mean3 2.54345220257717 peak 3 peak2 2 median 2
+Nax56LA_A549_0.01 in sample A549_G1_1G possible deletion: mean 2.28226758899949 mean3 2.54340836012862 peak 3 peak2 2 median 2

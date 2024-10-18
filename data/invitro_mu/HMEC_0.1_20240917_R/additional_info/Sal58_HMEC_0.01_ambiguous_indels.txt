@@ -1,0 +1,1 @@
+Sal58_HMEC_0.01 in normal sample HMEC_Root1 mean 1.77777777777778 mean3 1.28674121405751 peak 1 peak2 3 median 1

@@ -1,0 +1,1 @@
+S1-17_A549_0.01 in normal sample A549Root1 mean 2.23700292268178 mean3 2.51272609119463 peak 3 peak2 2 median 2

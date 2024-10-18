@@ -1,0 +1,5 @@
+S600_OM4_0.01 in normal sample OM4_B_B mean 2.43545159479708 mean3 2.07478866683683 peak 2 peak2 3 median 2
+S600_OM4_0.01 in sample OM4_C_1A possible insertion: mean 2.44697443741454 mean3 2.07380100317625 peak 2 peak2 3 median 2
+S600_OM4_0.01 in sample OM4_C_3B possible insertion: mean 2.43856214748021 mean3 2.06868946731235 peak 2 peak2 3 median 2
+S600_OM4_0.01 in sample OM4_H_4A possible insertion: mean 2.44594565887027 mean3 2.07405847275791 peak 2 peak2 3 median 2
+S600_OM4_0.01 in sample OM4_H_4B possible insertion: mean 2.43602522256929 mean3 2.06763222178859 peak 2 peak2 3 median 2
