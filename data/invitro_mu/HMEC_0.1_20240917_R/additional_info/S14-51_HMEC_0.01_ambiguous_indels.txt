@@ -1,0 +1,1 @@
+S14-51_HMEC_0.01 in normal sample HMEC_Root1 mean 2.08933618843683 mean3 2.08933618843683 peak 2 peak2 3 median 2

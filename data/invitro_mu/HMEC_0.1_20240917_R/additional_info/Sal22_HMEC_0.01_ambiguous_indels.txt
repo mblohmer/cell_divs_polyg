@@ -1,0 +1,5 @@
+Sal22_HMEC_0.01 in normal sample HMEC_Root1 mean 2.58992943887102 mean3 2.87793400612314 peak 3 peak2 2 median 3
+Sal22_HMEC_0.01 in sample HMEC_5_1 possible insertion: mean 2.59327600757247 mean3 2.87512415107508 peak 3 peak2 2 median 3
+Sal22_HMEC_0.01 in sample HMEC_5_7 possible deletion: mean 2.58920280727011 mean3 2.87945858517068 peak 3 peak2 2 median 3
+Sal22_HMEC_0.01 in sample HMEC_5_8 possible insertion: mean 2.59555012430997 mean3 2.87780202340805 peak 3 peak2 2 median 3
+Sal22_HMEC_0.01 in sample HMEC_STAT_2 possible deletion: mean 2.58843560350641 mean3 2.8789582834809 peak 3 peak2 2 median 3

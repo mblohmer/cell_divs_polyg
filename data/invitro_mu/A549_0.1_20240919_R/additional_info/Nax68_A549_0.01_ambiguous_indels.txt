@@ -1,0 +1,1 @@
+Nax68_A549_0.01 in normal sample A549Root1 mean 2.12642602495544 mean3 2.12642602495544 peak 2 peak2 3 median 2

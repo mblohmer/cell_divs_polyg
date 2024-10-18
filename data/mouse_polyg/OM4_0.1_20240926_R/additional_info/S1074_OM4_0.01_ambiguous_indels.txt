@@ -1,0 +1,10 @@
+S1074_OM4_0.01 in normal sample OM4_B_B mean 4.6035269496003 mean3 5.08450656096227 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_1A possible insertion: mean 4.60974571032133 mean3 5.08388339961461 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_1H possible deletion: mean 4.60208534127749 mean3 5.10833887485038 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_2D possible deletion: mean 4.54108080356403 mean3 5.13976899438381 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_2E possible deletion: mean 4.59265894265407 mean3 5.12987409852096 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_2G possible deletion: mean 4.59377789111309 mean3 5.13240349185152 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_3D possible deletion: mean 4.54606685809493 mean3 5.13762819423197 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_C_3H possible deletion: mean 4.56373510607382 mean3 5.12357709555019 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_H_4A possible deletion: mean 4.58565858105029 mean3 5.13495427764003 peak 5 peak2 6 median 5
+S1074_OM4_0.01 in sample OM4_H_4E possible deletion: mean 4.59476107516177 mean3 5.12038076074759 peak 5 peak2 6 median 5

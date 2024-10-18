@@ -1,0 +1,1 @@
+S1411_OM3_0.01 in normal sample OM3_B_B mean 2.15362035225049 mean3 2.15362035225049 peak 2 peak2 3 median 2

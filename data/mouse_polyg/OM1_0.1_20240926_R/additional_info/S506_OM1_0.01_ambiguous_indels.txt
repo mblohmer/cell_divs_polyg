@@ -1,0 +1,2 @@
+S506_OM1_0.01 in normal sample OM1_B_B mean 2.62271533094155 mean3 2.96096337008842 peak 3 peak2 2 median 3
+S506_OM1_0.01 in sample OM1_C_2H possible deletion: mean 2.61793703396852 mean3 2.9656265727227 peak 3 peak2 2 median 3

@@ -1,0 +1,3 @@
+Nax49_HT29_0.01 in normal sample HT29Root1 mean 2.65861390467862 mean3 2.83514755684567 peak 3 peak2 2 median 3
+Nax49_HT29_0.01 in sample HT29_G1_5D possible insertion: mean 2.66014393903758 mean3 2.82685439204928 peak 3 peak2 2 median 3
+Nax49_HT29_0.01 in sample HT29_G2_6G possible insertion: mean 2.66183077499064 mean3 2.82928085720173 peak 3 peak2 2 median 3

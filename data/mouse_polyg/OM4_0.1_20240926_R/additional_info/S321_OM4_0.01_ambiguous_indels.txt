@@ -1,0 +1,5 @@
+S321_OM4_0.01 in normal sample OM4_B_B mean 2.46244375216338 mean3 2.07079261672096 peak 2 peak2 3 median 2
+S321_OM4_0.01 in sample OM4_C_1A possible insertion: mean 2.46565349544073 mean3 2.06293169608596 peak 2 peak2 3 median 2
+S321_OM4_0.01 in sample OM4_C_1C possible deletion: mean 2.45969731315421 mean3 2.08844944563958 peak 2 peak2 3 median 2
+S321_OM4_0.01 in sample OM4_C_1E possible deletion: mean 2.45923281301893 mean3 2.08513053348468 peak 2 peak2 3 median 2
+S321_OM4_0.01 in sample OM4_C_3A possible deletion: mean 2.43977891437057 mean3 2.07226582407502 peak 2 peak2 3 median 2

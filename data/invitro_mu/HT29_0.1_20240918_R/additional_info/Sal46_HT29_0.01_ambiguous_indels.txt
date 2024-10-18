@@ -1,0 +1,10 @@
+Sal46_HT29_0.01 in normal sample HT29Root1 mean 2.53671966412004 mean3 2.73359732898517 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G1_3E possible deletion: mean 2.53018417462483 mean3 2.73408058749638 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G1_4C possible deletion: mean 2.52747444745348 mean3 2.73393494644982 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G1_4F possible deletion: mean 2.52770027899562 mean3 2.73615672064319 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G1_5E possible deletion: mean 2.53647427760771 mean3 2.73376021568793 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G2_4G possible insertion: mean 2.54051092390932 mean3 2.73209610349607 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G2_4H possible insertion: mean 2.53769262807164 mean3 2.72846441947566 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G2_5F possible insertion: mean 2.53712003911662 mean3 2.73188871545313 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G2_6D possible insertion: mean 2.53908629441624 mean3 2.72940908053844 peak 3 peak2 2 median 3
+Sal46_HT29_0.01 in sample HT29_G2_6E possible insertion: mean 2.54302434795174 mean3 2.72987202332739 peak 3 peak2 2 median 3

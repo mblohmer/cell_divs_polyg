@@ -1,0 +1,1 @@
+S293_OM1_0.01 in normal sample OM1_B_B mean 1.92785596551287 mean3 1.92785596551287 peak 2 peak2 1 median 2

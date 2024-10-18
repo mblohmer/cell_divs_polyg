@@ -1,0 +1,2 @@
+S644_OM1_0.01 in normal sample OM1_B_B mean 2.63280575539568 mean3 2.92143582797155 peak 3 peak2 2 median 3
+S644_OM1_0.01 in sample OM1_B_C possible insertion: mean 2.64330954504906 mean3 2.91491683991684 peak 3 peak2 2 median 3

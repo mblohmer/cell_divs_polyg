@@ -1,0 +1,1 @@
+S11-36_HT29_0.01 in normal sample HT29Root1 mean 1.70925341745531 mean3 1.70925341745531 peak 2 peak2 1 median 2

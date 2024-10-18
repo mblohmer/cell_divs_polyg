@@ -1,0 +1,2 @@
+JF06_HT29_0.01 in normal sample HT29Root1 mean 2.24081885856079 mean3 1.86146827042721 peak 2 peak2 1 median 2
+JF06_HT29_0.01 in sample HT29_G1_4F possible deletion: mean 2.23462626696752 mean3 1.87070715797659 peak 2 peak2 1 median 2

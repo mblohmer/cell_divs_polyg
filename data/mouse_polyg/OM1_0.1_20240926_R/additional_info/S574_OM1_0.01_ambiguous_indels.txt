@@ -1,0 +1,5 @@
+S574_OM1_0.01 in normal sample OM1_B_B mean 2.1071812802582 mean3 2.50327359991653 peak 3 peak2 2 median 2
+S574_OM1_0.01 in sample OM1_C_2A possible deletion: mean 2.0899480598839 mean3 2.50389949833481 peak 3 peak2 2 median 2
+S574_OM1_0.01 in sample OM1_C_2G possible deletion: mean 2.10026361646039 mean3 2.50777614499143 peak 3 peak2 2 median 2
+S574_OM1_0.01 in sample OM1_C_2H possible deletion: mean 2.10518934081346 mean3 2.50627215164669 peak 3 peak2 2 median 2
+S574_OM1_0.01 in sample OM1_C_3F possible deletion: mean 2.09899512922901 mean3 2.51466586029634 peak 3 peak2 2 median 2

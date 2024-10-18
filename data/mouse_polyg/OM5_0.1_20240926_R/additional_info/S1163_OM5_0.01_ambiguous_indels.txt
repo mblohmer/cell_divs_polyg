@@ -1,0 +1,2 @@
+S1163_OM5_0.01 in normal sample OM5_B_B mean 2.69821683309558 mean3 2.93876470827735 peak 3 peak2 2 median 3
+S1163_OM5_0.01 in sample OM5_C_6B possible insertion: mean 2.70234936250081 mean3 2.93007044320517 peak 3 peak2 2 median 3

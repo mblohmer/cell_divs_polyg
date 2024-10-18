@@ -1,0 +1,1 @@
+S686_OM5_0.01 in normal sample OM5_B_B mean 1.91337325349301 mean3 1.91337325349301 peak 2 peak2 1 median 2

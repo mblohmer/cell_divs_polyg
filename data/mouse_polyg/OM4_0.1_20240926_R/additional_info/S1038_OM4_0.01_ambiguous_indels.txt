@@ -1,0 +1,2 @@
+S1038_OM4_0.01 in normal sample OM4_B_B mean 2.12884568053163 mean3 2.51494632535095 peak 3 peak2 2 median 2
+S1038_OM4_0.01 in sample OM4_C_3D possible insertion: mean 2.13954425135228 mean3 2.5144539614561 peak 3 peak2 2 median 2

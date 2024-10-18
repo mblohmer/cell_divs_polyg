@@ -1,0 +1,2 @@
+S1334_OM3_0.01 in normal sample OM3_B_B mean 2.49772246370014 mean3 2.12301881877971 peak 2 peak2 3 median 2
+S1334_OM3_0.01 in sample OM3_H_3H possible insertion: mean 2.50309300060544 mean3 2.11552226935313 peak 2 peak2 3 median 3

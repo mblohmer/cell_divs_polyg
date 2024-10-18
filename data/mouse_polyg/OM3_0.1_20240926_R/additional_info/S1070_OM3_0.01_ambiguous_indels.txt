@@ -1,0 +1,2 @@
+S1070_OM3_0.01 in normal sample OM3_B_B mean 2.44467776420281 mean3 2.83080123862977 peak 3 peak2 2 median 2
+S1070_OM3_0.01 in sample OM3_C_9D possible insertion: mean 2.47457937697818 mean3 2.82404335551938 peak 3 peak2 2 median 2

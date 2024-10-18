@@ -1,0 +1,1 @@
+JF21_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.74775564957177 mean3 2.98604637528215 peak 3 peak2 2 median 3

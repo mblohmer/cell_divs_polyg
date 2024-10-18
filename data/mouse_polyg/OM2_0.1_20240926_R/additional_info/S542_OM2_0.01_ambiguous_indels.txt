@@ -1,0 +1,1 @@
+S542_OM2_0.01 in normal sample OM2_B_B mean 3.43105014969344 mean3 3.91038702587103 peak 4 peak2 3 median 3

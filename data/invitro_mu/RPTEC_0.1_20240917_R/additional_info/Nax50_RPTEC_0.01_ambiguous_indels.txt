@@ -1,0 +1,3 @@
+Nax50_RPTEC_0.01 in normal sample RPTEC_Root1 mean 3.83750728013978 mean3 3.05941566412963 peak 3 peak2 4 median 4
+Nax50_RPTEC_0.01 in sample RPTEC_R3 possible insertion: mean 3.86433642818132 mean3 3.05621642363776 peak 3 peak2 4 median 4
+Nax50_RPTEC_0.01 in sample RPTEC_R4 possible insertion: mean 3.85014005602241 mean3 3.04849084611578 peak 3 peak2 4 median 4

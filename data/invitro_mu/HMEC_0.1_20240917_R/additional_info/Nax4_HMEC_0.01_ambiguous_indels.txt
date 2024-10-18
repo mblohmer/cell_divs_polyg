@@ -1,0 +1,2 @@
+Nax4_HMEC_0.01 in normal sample HMEC_Root1 mean 2.18983384720795 mean3 2.50490169528246 peak 3 peak2 2 median 2
+Nax4_HMEC_0.01 in sample HMEC_5_6 possible insertion: mean 2.1933709293968 mean3 2.50085178875639 peak 3 peak2 2 median 2

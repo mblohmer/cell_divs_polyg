@@ -1,0 +1,6 @@
+JF21_HMEC_0.01 in normal sample HMEC_Root1 mean 2.61902121761382 mean3 2.87921390030197 peak 3 peak2 2 median 3
+JF21_HMEC_0.01 in sample HMEC_5_6 possible deletion: mean 2.61480058331983 mean3 2.87984370789545 peak 3 peak2 2 median 3
+JF21_HMEC_0.01 in sample HMEC_5_8 possible deletion: mean 2.61490402971087 mean3 2.88189374481768 peak 3 peak2 2 median 3
+JF21_HMEC_0.01 in sample HMEC_STAT_3 possible deletion: mean 2.61774235693755 mean3 2.87990769137339 peak 3 peak2 2 median 3
+JF21_HMEC_0.01 in sample HMEC_STAT_4 possible deletion: mean 2.61645495333472 mean3 2.88000352283236 peak 3 peak2 2 median 3
+JF21_HMEC_0.01 in sample HMEC_STAT_G2_3B possible deletion: mean 2.61321419139009 mean3 2.89253808417248 peak 3 peak2 2 median 3

@@ -1,0 +1,2 @@
+S1070_OM4_0.01 in normal sample OM4_B_B mean 1.81738776249095 mean3 1.49982777097367 peak 1 peak2 2 median 2
+S1070_OM4_0.01 in sample OM4_C_3H possible insertion: mean 1.84183966783775 mean3 1.49759695061319 peak 1 peak2 2 median 2

@@ -1,0 +1,1 @@
+Nax40_RPTEC_0.01 in normal sample RPTEC_Root1 mean 2.45794835347074 mean3 2.06260541720409 peak 2 peak2 3 median 2

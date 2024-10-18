@@ -1,0 +1,1 @@
+S1377_OM1_0.01 in normal sample OM1_B_B mean 1.59934897599349 mean3 1.59934897599349 peak 2 peak2 1 median 2

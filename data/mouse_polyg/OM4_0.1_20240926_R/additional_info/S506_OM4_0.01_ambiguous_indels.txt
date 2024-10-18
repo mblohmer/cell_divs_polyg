@@ -1,0 +1,1 @@
+S506_OM4_0.01 in normal sample OM4_B_B mean 2.59879289789662 mean3 2.94866172788251 peak 3 peak2 2 median 3

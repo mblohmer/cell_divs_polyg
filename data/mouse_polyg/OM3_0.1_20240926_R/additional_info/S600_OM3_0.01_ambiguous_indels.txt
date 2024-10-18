@@ -1,0 +1,4 @@
+S600_OM3_0.01 in normal sample OM3_B_B mean 2.43843801623844 mean3 2.08207902840533 peak 2 peak2 3 median 2
+S600_OM3_0.01 in sample OM3_C_7G possible insertion: mean 2.45967239745499 mean3 2.0814406393849 peak 2 peak2 3 median 2
+S600_OM3_0.01 in sample OM3_C_8E possible insertion: mean 2.4515322506652 mean3 2.07675104343243 peak 2 peak2 3 median 2
+S600_OM3_0.01 in sample OM3_C_9G possible insertion: mean 2.45343458034754 mean3 2.08060339975234 peak 2 peak2 3 median 2

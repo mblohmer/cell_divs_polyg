@@ -1,0 +1,4 @@
+S1230_OM4_0.01 in normal sample OM4_B_B mean 2.61240323715693 mean3 2.95747543784707 peak 3 peak2 2 median 3
+S1230_OM4_0.01 in sample OM4_C_1F possible deletion: mean 2.60072591832469 mean3 2.95909016908156 peak 3 peak2 2 median 3
+S1230_OM4_0.01 in sample OM4_C_2C possible deletion: mean 2.61146961245397 mean3 2.95761548341379 peak 3 peak2 2 median 3
+S1230_OM4_0.01 in sample OM4_C_2F possible deletion: mean 2.61203742729495 mean3 2.96506298937504 peak 3 peak2 2 median 3

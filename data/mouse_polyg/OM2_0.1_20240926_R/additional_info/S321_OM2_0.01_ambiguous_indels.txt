@@ -1,0 +1,2 @@
+S321_OM2_0.01 in normal sample OM2_B_B mean 3.02922077922078 mean3 3.03764705882353 peak 3 peak2 4 median 3
+S321_OM2_0.01 in sample OM2_C_6G possible insertion: mean 3.04902867715079 mean3 3.03091397849462 peak 3 peak2 4 median 3

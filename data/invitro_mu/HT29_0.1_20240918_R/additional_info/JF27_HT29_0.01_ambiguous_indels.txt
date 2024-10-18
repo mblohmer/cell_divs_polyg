@@ -1,0 +1,1 @@
+JF27_HT29_0.01 in normal sample HT29Root1 mean 2.17240928122819 mean3 2.17240928122819 peak 2 peak2 3 median 2

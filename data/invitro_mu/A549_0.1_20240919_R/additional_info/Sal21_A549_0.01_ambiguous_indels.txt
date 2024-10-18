@@ -1,0 +1,1 @@
+Sal21_A549_0.01 in normal sample A549Root1 mean 2.98260392782375 mean3 3.11131164074526 peak 3 peak2 4 median 3

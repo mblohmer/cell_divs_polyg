@@ -5,6 +5,7 @@ library(ggtree)
 library(phytools)
 library(patchwork)
 library(tidyverse)
+library(gridExtra)
 
 theme_martin  <- function () {
     theme_classic() + theme(axis.line = element_line(linewidth = 1),
@@ -66,7 +67,15 @@ get_markerlengths  <- function(dir) {
 if (str_detect(dir[1], "science|isc|hnscc")) {markers <- markers %>% 
       ungroup %>% 
       mutate(sample=str_remove(sample, "_[1-3]$"))  %>% 
-      as.data.table } else {
+      as.data.table } 
+      
+      else if (str_detect(dir[1], "batch")) {markers <- markers %>% 
+      ungroup %>% 
+      as.data.table
+      }
+      
+      
+      else {
     
     markers <- markers %>% 
       mutate(sample=str_remove(sample, "_[1-3]$"))  %>% 
@@ -82,6 +91,59 @@ if (str_detect(dir[1], "science|isc|hnscc")) {markers <- markers %>%
  return(markers)
 }
 
+
+# getting markerlengths without subtracting the normal length
+get_markerlengths_unsubtracted  <- function(dir) { 
+
+  subject <- str_split(dir, "/") %>%
+    purrr::map(tail, n = 1) %>%
+    unlist() %>%
+    str_split("_") %>%
+    purrr::map(1) %>%
+    unlist()
+
+  message(subject)
+
+  ## path to poly-G raw data directory (marker length files)
+  marker_dir <- list.files(dir, pattern = "repre_repli", full.names = TRUE)
+
+  ## load marker lengths and get the average length of each marker in each sample
+  get_markers <- function(marker_dir) {
+
+  marker <- suppressMessages(read_tsv(marker_dir))
+  
+  # getting the marker name
+  int_file <- tail(str_split(marker_dir, "/")[[1]], 1) 
+  marker_name <- head(str_split(int_file, "_")[[1]], 1)
+
+  cols <- NCOL(marker) +1 
+
+  marker  %>% 
+    rowid_to_column("length")  %>% 
+    pivot_longer(cols=c(2:cols), names_to="sample", values_to="Frequency")  %>% 
+    group_by(sample)  %>% 
+    mutate(Frequency=Frequency/sum(Frequency),
+            sample=str_remove(sample, "_[1-3]$")) %>%
+    summarize(length = sum(length * Frequency)) %>%
+    mutate(marker=marker_name) 
+    
+  }
+  
+  marker_files <- list.files(marker_dir, full.names = TRUE)
+
+  markers <- lapply(marker_files, get_markers)
+  markers <- bind_rows(markers)
+
+  markers <- markers %>% 
+      ungroup %>% 
+      mutate(sample=str_remove(sample, "_[1-3]$"))  %>% 
+      as.data.table 
+      
+
+    markers$subject <- subject
+
+ return(markers)
+}
 
 # Creating Heatmap from Mean Lengths --------------------------------------
 

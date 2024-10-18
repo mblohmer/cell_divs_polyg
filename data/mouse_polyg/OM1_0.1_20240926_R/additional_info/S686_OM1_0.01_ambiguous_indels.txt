@@ -1,0 +1,1 @@
+S686_OM1_0.01 in normal sample OM1_B_B mean 1.94821356884785 mean3 1.94821356884785 peak 2 peak2 1 median 2

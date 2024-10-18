@@ -1,0 +1,1 @@
+S1074_OM1_0.01 in normal sample OM1_B_B mean 4.57505136187751 mean3 5.04693107231178 peak 5 peak2 6 median 5

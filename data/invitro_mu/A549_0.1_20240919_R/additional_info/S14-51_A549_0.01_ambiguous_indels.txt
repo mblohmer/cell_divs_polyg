@@ -1,0 +1,2 @@
+S14-51_A549_0.01 in normal sample A549Root1 mean 2.15324869305452 mean3 2.51510989010989 peak 3 peak2 2 median 2
+S14-51_A549_0.01 in sample A549_G1_1F possible insertion: mean 2.16244071506749 mean3 2.51419745752643 peak 3 peak2 2 median 2

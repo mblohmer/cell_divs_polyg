@@ -1,0 +1,2 @@
+Nax55_A549_0.01 in normal sample A549Root1 mean 2.45991847826087 mean3 2.07309817254569 peak 2 peak2 3 median 2
+Nax55_A549_0.01 in sample A549_G1_2C possible insertion: mean 2.46548286268592 mean3 2.06124463811534 peak 2 peak2 3 median 2
