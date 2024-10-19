@@ -49,3 +49,5 @@ if(length(new.plot.packages)>0) BiocManager::install(new.plot.packages)
 ```
 All data plots will be saved in the corresponding subdirectory under *plots*. 
 Intermediary results files are in saved under *results*.  
+
+All analysis was performed on macOS Sonoma (14.6). The software tools are compatible with Windows and Linux. Installation of the R packages takes less than 1 hour. Simulations and bootstrapping analyses run for approximately 12 hours. Pre-computed results of these analyses are included in this repository and if used make recreating all results take less than 1 hour.
