@@ -14261,10 +14261,10 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h1 id="Figure-2">Figure 2<a class="anchor-link" href="#Figure-2">&#182;</a></h1>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[78]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># loading libraries</span>
@@ -14281,6 +14281,192 @@ a.anchor-link {
      </div>
 </div>
 </div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr">
+<pre>Loading required package: ggplot2
+
+
+Attaching package: &#39;zoo&#39;
+
+
+The following objects are masked from &#39;package:base&#39;:
+
+    as.Date, as.Date.numeric
+
+
+
+---------------------
+Welcome to dendextend version 1.17.1
+Type citation(&#39;dendextend&#39;) for how to cite the package.
+
+Type browseVignettes(package = &#39;dendextend&#39;) for the package vignette.
+The github page is: https://github.com/talgalili/dendextend/
+
+Suggestions and bug-reports can be submitted at: https://github.com/talgalili/dendextend/issues
+You may ask questions at stackoverflow, use the r and dendextend tags: 
+	 https://stackoverflow.com/questions/tagged/dendextend
+
+	To suppress this message use:  suppressPackageStartupMessages(library(dendextend))
+---------------------
+
+
+
+Attaching package: &#39;dendextend&#39;
+
+
+The following object is masked from &#39;package:ggpubr&#39;:
+
+    rotate
+
+
+The following object is masked from &#39;package:stats&#39;:
+
+    cutree
+
+
+Loading required package: TreeTools
+
+Loading required package: ape
+
+
+Attaching package: &#39;ape&#39;
+
+
+The following objects are masked from &#39;package:dendextend&#39;:
+
+    ladderize, rotate
+
+
+The following object is masked from &#39;package:ggpubr&#39;:
+
+    rotate
+
+
+
+Attaching package: &#39;data.table&#39;
+
+
+The following object is masked from &#39;package:dendextend&#39;:
+
+    set
+
+
+The following objects are masked from &#39;package:zoo&#39;:
+
+    yearmon, yearqtr
+
+
+<span class="ansi-black-intense-fg">ggtree v3.7.2 For help: https://yulab-smu.top/treedata-book/
+
+If you use the ggtree package suite in published research, please cite
+the appropriate paper(s):
+
+Guangchuang Yu, David Smith, Huachen Zhu, Yi Guan, Tommy Tsan-Yuk Lam.
+ggtree: an R package for visualization and annotation of phylogenetic
+trees with their covariates and other associated data. Methods in
+Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
+
+G Yu. Data Integration, Manipulation and Visualization of Phylogenetic
+Trees (1st ed.). Chapman and Hall/CRC. 2022. ISBN: 9781032233574
+
+Guangchuang Yu.  Data Integration, Manipulation and Visualization of
+Phylogenetic Trees (1st edition). Chapman and Hall/CRC. 2022,
+doi:10.1201/9781003279242 </span>
+
+
+Attaching package: &#39;ggtree&#39;
+
+
+The following object is masked from &#39;package:TreeTools&#39;:
+
+    MRCA
+
+
+The following object is masked from &#39;package:ape&#39;:
+
+    rotate
+
+
+The following object is masked from &#39;package:dendextend&#39;:
+
+    rotate
+
+
+The following object is masked from &#39;package:ggpubr&#39;:
+
+    rotate
+
+
+Loading required package: maps
+
+
+Attaching package: &#39;phytools&#39;
+
+
+The following object is masked from &#39;package:TreeTools&#39;:
+
+    as.multiPhylo
+
+
+The following object is masked from &#39;package:dendextend&#39;:
+
+    untangle
+
+
+-- <span class="ansi-bold">Attaching core tidyverse packages</span> ------------------------ tidyverse 2.0.0 --
+<span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">dplyr    </span> 1.1.1     <span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">readr    </span> 2.1.4
+<span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">forcats  </span> 1.0.0     <span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">stringr  </span> 1.5.0
+<span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">lubridate</span> 1.9.2     <span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">tibble   </span> 3.2.1
+<span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">purrr    </span> 1.0.1     <span class="ansi-green-fg">v</span> <span class="ansi-blue-fg">tidyr    </span> 1.3.0
+-- <span class="ansi-bold">Conflicts</span> ------------------------------------------ tidyverse_conflicts() --
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">between()</span>     masks <span class="ansi-blue-fg">data.table</span>::between()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">tidyr</span>::<span class="ansi-green-fg">expand()</span>      masks <span class="ansi-blue-fg">ggtree</span>::expand()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">filter()</span>      masks <span class="ansi-blue-fg">stats</span>::filter()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">first()</span>       masks <span class="ansi-blue-fg">data.table</span>::first()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">hour()</span>    masks <span class="ansi-blue-fg">data.table</span>::hour()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">isoweek()</span> masks <span class="ansi-blue-fg">data.table</span>::isoweek()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">lag()</span>         masks <span class="ansi-blue-fg">stats</span>::lag()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">last()</span>        masks <span class="ansi-blue-fg">data.table</span>::last()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">purrr</span>::<span class="ansi-green-fg">map()</span>         masks <span class="ansi-blue-fg">maps</span>::map()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">mday()</span>    masks <span class="ansi-blue-fg">data.table</span>::mday()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">minute()</span>  masks <span class="ansi-blue-fg">data.table</span>::minute()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">month()</span>   masks <span class="ansi-blue-fg">data.table</span>::month()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">quarter()</span> masks <span class="ansi-blue-fg">data.table</span>::quarter()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">second()</span>  masks <span class="ansi-blue-fg">data.table</span>::second()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">purrr</span>::<span class="ansi-green-fg">transpose()</span>   masks <span class="ansi-blue-fg">data.table</span>::transpose()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">wday()</span>    masks <span class="ansi-blue-fg">data.table</span>::wday()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">week()</span>    masks <span class="ansi-blue-fg">data.table</span>::week()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">dplyr</span>::<span class="ansi-green-fg">where()</span>       masks <span class="ansi-blue-fg">ape</span>::where()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">yday()</span>    masks <span class="ansi-blue-fg">data.table</span>::yday()
+<span class="ansi-red-fg">x</span> <span class="ansi-blue-fg">lubridate</span>::<span class="ansi-green-fg">year()</span>    masks <span class="ansi-blue-fg">data.table</span>::year()
+<span class="ansi-cyan-fg">i</span> Use the conflicted package (<span class="ansi-blue-fg">&lt;http://conflicted.r-lib.org/&gt;</span>) to force all conflicts to become errors
+
+Attaching package: &#39;gridExtra&#39;
+
+
+The following object is masked from &#39;package:dplyr&#39;:
+
+    combine
+
+
+</pre>
+</div>
+</div>
+
+</div>
+
 </div>
 
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14551,7 +14737,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># find samples</span>
@@ -14578,7 +14764,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">l1_list</span> <span class="o">&lt;-</span> <span class="nf">lapply</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="nf">nrow</span><span class="p">(</span><span class="n">combos</span><span class="p">),</span> <span class="n">get_l1_r_for_combination</span><span class="p">,</span> <span class="n">combos</span><span class="p">,</span> <span class="n">markerlengths</span><span class="p">)</span>
@@ -14604,7 +14790,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">cell_divs_tbl</span> <span class="o">&lt;-</span> <span class="nf">read_xlsx</span><span class="p">(</span><span class="s">&quot;../data/cell_division_numbers.xlsx&quot;</span><span class="p">)</span>
@@ -14618,7 +14804,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">divs_tbl</span> <span class="o">&lt;-</span> <span class="n">cell_divs_tbl</span> <span class="o">%&gt;%</span>
@@ -14637,7 +14823,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># setting up a function to get the number of cell divisions from the previous sample to this sample</span>
@@ -14664,7 +14850,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">msi_generations</span>  <span class="o">&lt;-</span> <span class="n">l1_table</span> <span class="o">%&gt;%</span> 
@@ -14732,7 +14918,7 @@ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.&#34
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">mss_generations</span>  <span class="o">&lt;-</span> <span class="n">l1_table</span> <span class="o">%&gt;%</span> 
@@ -16309,6 +16495,64 @@ sample estimates:
 </tbody>
 </table>
 
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Number of sample comparisons</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[16]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="n">msi_generations</span> <span class="o">%&gt;%</span>
+    <span class="nf">nrow</span><span class="p">()</span>
+<span class="n">mss_generations</span> <span class="o">%&gt;%</span>
+    <span class="nf">nrow</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+105
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+105
 </div>
 
 </div>

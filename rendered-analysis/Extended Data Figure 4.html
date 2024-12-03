@@ -14301,13 +14301,14 @@ ggtree: an R package for visualization and annotation of phylogenetic
 trees with their covariates and other associated data. Methods in
 Ecology and Evolution. 2017, 8(1):28-36. doi:10.1111/2041-210X.12628
 
-S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L
-Zhan, T Wu, E Hu, Y Jiang, X Bo, G Yu. ggtreeExtra: Compact
-visualization of richly annotated phylogenetic data. Molecular Biology
-and Evolution. 2021, 38(9):4039-4042. doi: 10.1093/molbev/msab166
+Guangchuang Yu.  Data Integration, Manipulation and Visualization of
+Phylogenetic Trees (1st edition). Chapman and Hall/CRC. 2022,
+doi:10.1201/9781003279242
 
-G Yu. Data Integration, Manipulation and Visualization of Phylogenetic
-Trees (1st ed.). Chapman and Hall/CRC. 2022. ISBN: 9781032233574 </span>
+Guangchuang Yu, Tommy Tsan-Yuk Lam, Huachen Zhu, Yi Guan. Two methods
+for mapping and visualizing associated data on phylogeny using ggtree.
+Molecular Biology and Evolution. 2018, 35(12):3041-3043.
+doi:10.1093/molbev/msy194 </span>
 
 
 Attaching package: &#39;ggtree&#39;
@@ -14639,7 +14640,7 @@ the `.groups` argument.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># find samples</span>
@@ -14666,7 +14667,7 @@ the `.groups` argument.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">l1_l</span> <span class="o">&lt;-</span> <span class="nf">lapply</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="nf">nrow</span><span class="p">(</span><span class="n">combos</span><span class="p">),</span> <span class="n">get_l1_r_for_all_combination</span><span class="p">,</span> <span class="n">combos</span><span class="p">,</span> <span class="n">markerlengths</span><span class="p">)</span>
@@ -14680,7 +14681,7 @@ the `.groups` argument.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">l1_tbl</span> <span class="o">&lt;-</span> <span class="nf">rbindlist</span><span class="p">(</span><span class="n">l1_l</span><span class="p">)</span>
@@ -14748,7 +14749,7 @@ the `.groups` argument.
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="n">new_normal</span> <span class="o">&lt;-</span> <span class="n">l1_tbl</span> <span class="o">%&gt;%</span>
@@ -14949,6 +14950,69 @@ height=420
 width=420
 height=420
 >
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Comparison numbers</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="n">l1_tbl</span> <span class="o">%&gt;%</span>
+     <span class="nf">filter</span><span class="p">(</span><span class="o">!</span><span class="nf">str_detect</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="s">&quot;_B_B&quot;</span><span class="p">),</span> <span class="o">!</span><span class="nf">str_detect</span><span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="s">&quot;_B_B&quot;</span><span class="p">))</span> <span class="o">%&gt;%</span>
+     <span class="nf">mutate</span><span class="p">(</span>
+         <span class="n">sample</span> <span class="o">=</span> <span class="nf">ifelse</span><span class="p">(</span><span class="n">a</span> <span class="o">%in%</span> <span class="n">new_normal</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="p">),</span>
+         <span class="n">type</span><span class="o">=</span><span class="nf">case_when</span><span class="p">(</span>
+            <span class="nf">str_detect</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="s">&quot;_H_&quot;</span><span class="p">)</span> <span class="o">&amp;</span> <span class="nf">str_detect</span><span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="s">&quot;_H_&quot;</span><span class="p">)</span> <span class="o">~</span> <span class="s">&quot;both_hsc&quot;</span><span class="p">,</span>
+            <span class="nf">str_detect</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="s">&quot;_C_&quot;</span><span class="p">)</span> <span class="o">&amp;</span> <span class="nf">str_detect</span><span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="s">&quot;_C_&quot;</span><span class="p">)</span> <span class="o">~</span> <span class="s">&quot;both_crypt&quot;</span>
+    <span class="p">)</span> <span class="p">)</span><span class="o">%&gt;%</span>
+     <span class="nf">drop_na</span><span class="p">()</span> <span class="o">%&gt;%</span>
+         <span class="nf">mutate</span><span class="p">(</span><span class="n">type</span> <span class="o">=</span> <span class="nf">fct_relevel</span><span class="p">(</span><span class="n">type</span><span class="p">,</span> <span class="s">&quot;both_hsc&quot;</span><span class="p">,</span> <span class="s">&quot;both_crypt&quot;</span><span class="p">))</span> <span class="o">%&gt;%</span>
+         <span class="nf">count</span><span class="p">(</span><span class="n">type</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+<table class="dataframe">
+<caption>A data.table: 2 x 2</caption>
+<thead>
+	<tr><th scope=col>type</th><th scope=col>n</th></tr>
+	<tr><th scope=col>&lt;fct&gt;</th><th scope=col>&lt;int&gt;</th></tr>
+</thead>
+<tbody>
+	<tr><td>both_hsc  </td><td> 54</td></tr>
+	<tr><td>both_crypt</td><td>644</td></tr>
+</tbody>
+</table>
+
 </div>
 
 </div>
